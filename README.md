@@ -134,4 +134,4 @@ Crea instancia de Administrador
 Crea instancia de Lector
     SolicitarPrestamo() -> verLibrosPrestados()
 
-## **Proyecto académico desarrollado por el **Grupo 3 — Interfaces 3** **
+## **PROYECTO ACADÉMICO DESARROLLADO POR EL: **Grupo 3 — Interfaces 3** **
