@@ -112,19 +112,19 @@ Genera la carpeta dist/ con el código JavaScript listo para producción.
 ## Ejecutar el código compilado
 node dist/index.js
 
-Scripts Disponibles                                                                 |
----------|------------------|-------------------------------------------------------|
-Script	 |     Comando	    |             Descripción                               |
-dev	     |   npm run dev    |    Ejecuta con ts-node + nodemon (recarga automática) |
-build	   |  npm run build   |	Compila TypeScript → JavaScript en dist/              |
-start	   |  npm run start   |	Ejecuta el código ya compilado en dist/               |
+| Scripts Disponibles                                                                |
+|---------|------------------|-------------------------------------------------------|
+| Script  |     Comando	     |             Descripción                               |
+| dev	  |   npm run dev    |    Ejecuta con ts-node + nodemon (recarga automática) |
+| build	  |  npm run build   |	Compila TypeScript → JavaScript en dist/             |
+| start	  |  npm run start   |	Ejecuta el código ya compilado en dist/              |
 
-Dependencias del Proyecto                                                    |
-------------|-------------------|---------------------------------------------|                   
-Paquete     |       Tipo        |	        Función                             |
-typescript  |	devDependency     |	Compilador de TypeScript                    |
-ts-node     |	devDependency     |	Ejecuta .ts sin compilar manualmente        |
-nodemon     |	devDependency     |	Reinicia el servidor al detectar cambios    |
+|Dependencias del Proyecto                                                     |
+|------------|-------------------|---------------------------------------------|                   
+| Paquete    |       Tipo        |	        Función                            |
+| typescript |	devDependency    |	Compilador de TypeScript                   |
+| ts-node    |	devDependency    |	Ejecuta .ts sin compilar manualmente       |
+| nodemon    |	devDependency    |	Reinicia el servidor al detectar cambios   |
 
 Flujo de Ejecución
 
